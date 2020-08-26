@@ -6,9 +6,11 @@ https://github.com/biscofil/VoiceControlLed_Arduino
 Android app code:
 https://github.com/biscofil/VoiceControlLed_Android
 
-#Demo
+Demo
+----
 https://www.youtube.com/watch?v=9GuPpa4cmRc
 
-#Circuit
+Circuit
+-------
 ![alt tag](https://raw.githubusercontent.com/biscofil/VoiceControlLed_Android/master/circuit.PNG)
 
